@@ -1,5 +1,7 @@
 # Planning with Files Skill for Copaw
 
+> **Copaw专用** - 这是为 Copaw 智能体系统设计的专用技能
+
 A Copaw skill for file-based task organization and progress tracking for complex multi-step projects.
 
 ## Overview
